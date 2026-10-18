@@ -1,4 +1,4 @@
-# MAH-CODEZZ
+# YAKKIE-CODEZ
 # ୨୧ HI , I'M YAKKIE ! 🎀
 
 > 🌷 A beginner developer learning something new every day.
